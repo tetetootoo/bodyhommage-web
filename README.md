@@ -47,4 +47,4 @@ See selected design and software projects at [halfodd.com](https://www.halfodd.c
 
 ## License
 
-MIT License
+All rights reserved.
